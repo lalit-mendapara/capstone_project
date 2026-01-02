@@ -12,4 +12,4 @@ REDIS_URL="" # redis server URL
 CELERY_BROKER_URL= # redis server url
 CELERY_RESULT_BACKEND=r # redis server url
 
-PROJECT_NAME="Enterprise AI Chatbot" # project name
+PROJECT_NAME= # project name
