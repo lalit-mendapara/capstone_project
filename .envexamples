@@ -1,0 +1,15 @@
+
+OPENROUTER_API_KEY="" # api key
+MODEL_NAME= "" # language model name
+OPENROUTER_BASE_URL= "" #Openrouter base url
+
+DATABASE_URL= "" # database url
+
+QDRANT_URL="" #qdrant database url
+
+REDIS_URL="" # redis server URL
+
+CELERY_BROKER_URL= # redis server url
+CELERY_RESULT_BACKEND=r # redis server url
+
+PROJECT_NAME="Enterprise AI Chatbot" # project name
